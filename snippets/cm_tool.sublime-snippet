@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:computer: Tool: ${1:summary}
+]]></content>
+  <tabTrigger>cm_tool</tabTrigger>
+  <scope>text.plain</scope>
+  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：自動生成や自動編集されたファイル）</description>
+</snippet>
