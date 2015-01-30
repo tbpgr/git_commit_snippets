@@ -11,7 +11,7 @@ Sublime Text2 snippets for 'git commit message (first line. emoji format)'
 |:x: delete: ${1:summary}|cm_delete|仕様削除|
 |:recycle: refactor: ${1:summary}|cm_refactor|リファクタリング|
 |:wrench: tool: ${1:summary}|cm_tool|ツール等、人間以外によるコミット|
-|:ballot_box_with_check: test: input_your_summary|cm_test|テストコードの追加|
+|:ballot_box_with_check: test: ${1:summary}|cm_test|テストコードの追加|
 |:book: doc: ${1:summary}|cm_doc|ドキュメント|
 |:thumbsup: bump up: ${1:summary}|cm_bump_up|バージョンアップ|
 |:imp: dirty: ${1:summary}|cm_dirty|動かないバージョンのコミット等、仕方なく行うコミット|
