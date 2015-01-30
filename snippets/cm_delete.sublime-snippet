@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-:x: Delete: ${1:summary}
+:x: delete: ${1:summary}
 ]]></content>
   <tabTrigger>cm_delete</tabTrigger>
   <scope>text.plain</scope>
-  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：削除）</description>
+  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：仕様削除）</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-:new: Add: ${1:summary}
+:new: add: ${1:summary}
 ]]></content>
   <tabTrigger>cm_add</tabTrigger>
   <scope>text.plain</scope>
-  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：追加）</description>
+  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：仕様追加）</description>
 </snippet>
