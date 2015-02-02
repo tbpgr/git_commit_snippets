@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ballot_box_with_check::recycle: test_refactor: ${1:summary}
+]]></content>
+  <tabTrigger>cm_test_refactor</tabTrigger>
+  <scope>text.plain</scope>
+  <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：テストのリファクタリング）</description>
+</snippet>
