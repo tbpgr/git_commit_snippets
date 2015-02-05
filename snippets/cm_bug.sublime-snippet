@@ -2,7 +2,7 @@
   <content><![CDATA[
 :bug: Fix: ${1:summary}
 ]]></content>
-  <tabTrigger>cm_add</tabTrigger>
+  <tabTrigger>cm_bug</tabTrigger>
   <scope>text.plain</scope>
   <description>git commit 時の 1行目 メッセージテンプレート（カテゴリ：バグ修正）</description>
 </snippet>

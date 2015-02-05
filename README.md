@@ -9,6 +9,7 @@ Sublime Text2 snippets for 'git commit message (first line. emoji format)'
 |:new: add: ${1:summary}|cm_add|仕様追加|
 |:up: modify: ${1:summary}|cm_modify|仕様変更|
 |:x: delete: ${1:summary}|cm_delete|仕様削除|
+|:bug: fix: ${1:summary}|cm_bug|バグの修正|
 |:recycle: refactor: ${1:summary}|cm_refactor|リファクタリング|
 |:wrench: tool: ${1:summary}|cm_tool|ツール等、人間以外によるコミット|
 |:ballot_box_with_check: test: ${1:summary}|cm_test|テストコードの追加|
